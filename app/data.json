@@ -1,0 +1,350 @@
+{
+  "concept": {
+    "companyName": "ADAF Bouwgroep",
+    "tagline": "Vakmanschap van fundament tot afwerking",
+    "sector": "Allround afbouwbedrijf",
+    "colors": {
+      "primary": "#ff7e67",
+      "secondary": "#2b2b2b",
+      "accent": "#e86550",
+      "background": "#f5f3f0",
+      "text": "#1e1e1e"
+    },
+    "styleOverrides": {
+      "heroLayout": "split-left-photo-right-form",
+      "cardRadius": "14px",
+      "fontPairing": "Inter + Playfair Display",
+      "uspBandBg": "#2b2b2b",
+      "uspBandTextColor": "#ffffff",
+      "serviceGridStyle": "mosaic-dark-overlay",
+      "footerBg": "#1e1e1e",
+      "ctaBannerBg": "#2b2b2b",
+      "werkwijzeCardBg": "#ffffff",
+      "buttonStyle": "rounded-full"
+    },
+    "contact": {
+      "phone": "+31642777877",
+      "email": "info@adafbouw.nl",
+      "address": "'s-Gravenzandseweg 19B, Wateringen"
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "youtube": ""
+    },
+    "heroTitle": "Bouwen met precisie, afwerken met trots",
+    "heroSubtitle": "ADAF Bouwgroep verzorgt nieuwbouw, verbouw, renovatie en transformatie in de regio. Van ruw casco tot perfecte afwerking — wij leveren kwaliteit die standhoudt.",
+    "heroBadge": "Allround afbouwbedrijf",
+    "heroButtonText": "Offerte aanvragen",
+    "uspCards": [
+      {
+        "icon": "CheckCircle",
+        "title": "Totaaloplossing",
+        "description": "Van sloopwerk tot eindoplevering — één aanspreekpunt voor het complete traject."
+      },
+      {
+        "icon": "Shield",
+        "title": "Kwaliteitsgarantie",
+        "description": "Wij werken met gecertificeerde materialen en staan achter elk opgeleverd project."
+      },
+      {
+        "icon": "Clock",
+        "title": "Op tijd opgeleverd",
+        "description": "Heldere planning, strakke communicatie en geen verrassingen achteraf."
+      },
+      {
+        "icon": "Users",
+        "title": "Ervaren vakmannen",
+        "description": "Ons team bestaat uit specialisten met jarenlange ervaring in nieuwbouw en renovatie."
+      }
+    ],
+    "about": {
+      "title": "Wie is ADAF Bouwgroep?",
+      "text": "ADAF Bouwgroep is een allround afbouwbedrijf gevestigd in Wateringen. Wij werken voor particulieren, vastgoedeigenaren en zakelijke opdrachtgevers door heel Nederland. Of het nu gaat om een complete verbouwing van een woning, de transformatie van een kantoorpand of de oplevering van een nieuwbouwproject — wij pakken het professioneel op.\n\nOns team van vakkundige bouwers combineert ambacht met moderne werkmethodes. We begrijpen dat bouwen een investering is, en we behandelen elk project alsof het ons eigen pand betreft. Dat betekent: eerlijk advies, transparante communicatie en werk dat er ook over tien jaar nog goed uitziet.\n\nVanuit ons vestigingsadres in Wateringen zijn wij actief in de regio Westland, Den Haag, Delft en omgeving. We nemen zowel kleine renovatieklussen als grootschalige transformatieprojecten aan.",
+      "yearsExperience": "10",
+      "checklistItems": [
+        "Nieuwbouw & casco werkzaamheden",
+        "Verbouw en aanbouw van woningen",
+        "Renovatie van bestaand vastgoed",
+        "Transformatie van bedrijfspanden",
+        "Snelle respons en heldere offerte"
+      ]
+    },
+    "partners": [],
+    "uniqueFeatures": {
+      "sectionTitle": "Waarom opdrachtgevers voor ADAF kiezen",
+      "sectionText": "We werken niet met standaard oplossingen. Elk project krijgt een aanpak die past bij de situatie, het budget en de wensen van de opdrachtgever.",
+      "items": [
+        {
+          "icon": "Briefcase",
+          "title": "Één aannemer, alles geregeld",
+          "description": "Geen gedoe met meerdere partijen. ADAF coördineert het volledige bouwproces van A tot Z."
+        },
+        {
+          "icon": "Target",
+          "title": "Scherpe en transparante offertes",
+          "description": "Onze offertes zijn gedetailleerd en begrijpelijk. U weet precies waar u aan toe bent, nog voor we starten."
+        },
+        {
+          "icon": "Award",
+          "title": "Kwaliteitsmaterialen",
+          "description": "We werken uitsluitend met bouwmaterialen die voldoen aan de geldende Nederlandse bouwstandaarden."
+        },
+        {
+          "icon": "Handshake",
+          "title": "Persoonlijk contact",
+          "description": "U heeft altijd direct contact met de uitvoerder. Geen callcenters, geen tussenpersonen."
+        },
+        {
+          "icon": "Zap",
+          "title": "Flexibel en snel inzetbaar",
+          "description": "Wij kunnen snel schakelen, ook voor urgente of kortlopende opdrachten in de regio."
+        }
+      ]
+    },
+    "services": [
+      {
+        "name": "Nieuwbouw",
+        "description": "ADAF Bouwgroep verzorgt nieuwbouwprojecten van begin tot eind. Wij werken nauw samen met architecten, installateurs en andere partijen om uw nieuwbouw vlekkeloos op te leveren. Van fundering tot dak — vakmanschap op elk niveau.",
+        "imagePrompt": "Wide angle documentary photograph of a modern Dutch residential construction site with concrete structure and wooden framing, natural daylight, industrial and raw aesthetic, cool grey tones"
+      },
+      {
+        "name": "Verbouw",
+        "description": "Uw woning of pand laten verbouwen? Wij realiseren aanbouwen, dakkapellen, doorbraakwanden en volledige interieurrenovaties. Met oog voor detail en respect voor uw woonsituatie werken we snel en netjes.",
+        "imagePrompt": "Realistic interior construction photo of a Dutch home renovation in progress, exposed walls, fresh drywall installation, natural light through large windows, clean and transitional atmosphere"
+      },
+      {
+        "name": "Renovatie",
+        "description": "Verouderd vastgoed krijgt bij ADAF een nieuw leven. Van gevelherstel en dakvernieuwing tot volledige binnenrenovaties — wij brengen uw pand terug naar hedendaagse standaard, duurzaam en solide gebouwd.",
+        "imagePrompt": "Photorealistic documentary image of a building renovation in the Netherlands, workers applying new facade materials and interior finishing, cool light, professional and unpolished style"
+      },
+      {
+        "name": "Transformatie",
+        "description": "Een kantoor omvormen tot appartementen? Een schoolgebouw transformeren naar woonruimte? ADAF heeft de expertise voor complexe transformatieprojecten waarbij functiewijziging gecombineerd wordt met bouwkundig vakmanschap.",
+        "imagePrompt": "Wide angle photo of an industrial Dutch building being transformed into residential apartments, raw concrete floors, open floor plan, large windows with diffused cool light, transitional space"
+      },
+      {
+        "name": "Afbouw & Interieur",
+        "description": "De afwerking bepaalt de eindkwaliteit. Wij verzorgen stucwerk, vloerleggen, tegelwerk, plafonds en systeemwanden. Ons afbouwteam werkt nauwkeurig en levert netjes op, zodat u direct kunt betrekken.",
+        "imagePrompt": "Close-up documentary photograph of skilled Dutch craftsmen finishing interior walls with plaster and drywall, natural window light, off-white tones, warm wood textures, professional atmosphere"
+      },
+      {
+        "name": "Sloopwerk & Voorbereiding",
+        "description": "Een goede verbouwing begint met een goede voorbereiding. Wij verzorgen gecontroleerd sloopwerk, afvoer van bouwafval en bouwkundige voorbereiding zodat het project daarna vlot kan starten.",
+        "imagePrompt": "Realistic photo of controlled interior demolition in a Dutch building, workers removing walls carefully, dust and raw concrete, industrial mood, natural light through empty window openings"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "Phone",
+        "title": "Vrijblijvend contact",
+        "description": "U neemt contact op via telefoon, e-mail of het contactformulier. We bespreken uw project en plannen een kennismaking in."
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Opname & offerte",
+        "description": "Een van onze uitvoerders komt langs voor een bouwkundige opname. U ontvangt vervolgens een gedetailleerde en transparante offerte."
+      },
+      {
+        "icon": "Settings",
+        "title": "Planning & voorbereiding",
+        "description": "Na akkoord stellen we een heldere werkplanning op en regelen we alle benodigde materialen, vergunningen en onderaannemers."
+      },
+      {
+        "icon": "Layers",
+        "title": "Uitvoering",
+        "description": "Ons team gaat aan de slag. U heeft gedurende het hele project direct contact met de uitvoerder en bent altijd op de hoogte van de voortgang."
+      },
+      {
+        "icon": "Award",
+        "title": "Oplevering",
+        "description": "We leveren netjes op, lopen samen de puntenlijst door en zorgen dat u tevreden bent voor we vertrekken. Kwaliteit gegarandeerd."
+      }
+    ],
+    "stepsTitle": "Hoe werkt het?",
+    "stepsText": "Van eerste contact tot sleuteloverdracht — een helder en persoonlijk proces zonder verrassingen.",
+    "projects": [
+      {
+        "name": "Renovatie woonhuis",
+        "date": "maart 2024",
+        "location": "Wateringen",
+        "imagePrompt": "Photorealistic after-renovation Dutch residential interior with freshly plastered walls, new wooden flooring, large windows with natural light, clean modern finishing, warm tones"
+      },
+      {
+        "name": "Aanbouw achterzijde woning",
+        "date": "oktober 2023",
+        "location": "Naaldwijk",
+        "imagePrompt": "Realistic photo of a newly completed single-storey extension on a Dutch brick house, large glass sliding doors, grey render, garden in foreground, daytime natural light"
+      },
+      {
+        "name": "Transformatie kantoor naar appartementen",
+        "date": "juni 2023",
+        "location": "Delft",
+        "imagePrompt": "Wide angle interior photo of a transformed Dutch office building converted into modern apartments, open floor plan, concrete ceiling with exposed beams, large windows, industrial residential style"
+      },
+      {
+        "name": "Nieuwbouw vrijstaande woning",
+        "date": "januari 2024",
+        "location": "Westland",
+        "imagePrompt": "Exterior photo of a newly built detached Dutch home with brick facade, large windows, tiled roof, landscaped front garden, overcast natural daylight, realistic documentary style"
+      }
+    ],
+    "blogPosts": [],
+    "testimonials": [
+      {
+        "name": "Mark de Vries",
+        "company": "Particulier opdrachtgever, Den Haag",
+        "quote": "ADAF heeft onze complete begane grond verbouwd in korte tijd. Nette communicatie, strakke planning en prachtig eindresultaat. We zijn heel blij met het resultaat.",
+        "rating": 5
+      },
+      {
+        "name": "Sandra Hoekstra",
+        "company": "VvE beheer, Naaldwijk",
+        "quote": "Voor de renovatie van ons appartementencomplex hebben we ADAF ingeschakeld. Professioneel team, eerlijke offerte en ze leven altijd wat ze beloven na. Aanrader.",
+        "rating": 5
+      },
+      {
+        "name": "Tom van der Berg",
+        "company": "Vastgoedinvesteerder, Delft",
+        "quote": "Meerdere transformatieprojecten succesvol afgerond met ADAF. Ze denken mee, werken efficiënt en leveren kwaliteit af die de investering waard is.",
+        "rating": 5
+      },
+      {
+        "name": "Layla Mansouri",
+        "company": "Particulier, Wateringen",
+        "quote": "Onze badkamer en keuken zijn volledig vernieuwd door ADAF. Alles werd keurig afgedekt, er bleef geen rommel achter en het resultaat ziet er geweldig uit.",
+        "rating": 5
+      }
+    ],
+    "pricing": null,
+    "ctaTitle": "Klaar om uw project te starten?",
+    "ctaText": "Vraag vandaag nog een vrijblijvende offerte aan. Onze uitvoerder komt langs, beoordeelt uw situatie en geeft u een eerlijk advies op maat.",
+    "ctaButtonText": "Neem contact op",
+    "footerTagline": "Vakmanschap van fundament tot afwerking — ADAF Bouwgroep, uw allround bouwpartner.",
+    "footerLinks": [
+      {
+        "label": "Home",
+        "href": "#"
+      },
+      {
+        "label": "Diensten",
+        "href": "#"
+      },
+      {
+        "label": "Projecten",
+        "href": "#"
+      },
+      {
+        "label": "Over ons",
+        "href": "#"
+      },
+      {
+        "label": "Contact",
+        "href": "#"
+      }
+    ],
+    "companyInfo": {
+      "kvk": "",
+      "btw": "",
+      "iban": "",
+      "whatsappNumber": "+31642777877"
+    },
+    "seoTitle": "ADAF Bouwgroep | Allround afbouwbedrijf in Wateringen",
+    "seoDescription": "ADAF Bouwgroep is uw betrouwbare allround aannemer voor nieuwbouw, verbouw, renovatie en transformatie in de regio Westland, Den Haag en Delft. Vraag vrijblijvend een offerte aan.",
+    "pages": [
+      {
+        "name": "Home",
+        "slug": "/"
+      },
+      {
+        "name": "Diensten",
+        "slug": "/diensten"
+      },
+      {
+        "name": "Projecten",
+        "slug": "/projecten"
+      },
+      {
+        "name": "Over ons",
+        "slug": "/over-ons"
+      },
+      {
+        "name": "Contact",
+        "slug": "/contact"
+      }
+    ],
+    "diensten": {
+      "heroTitle": "Onze Diensten",
+      "heroText": "Van nieuwbouw tot renovatie en volledige transformaties — ADAF Bouwgroep biedt een breed scala aan bouwdiensten voor particulieren en zakelijke opdrachtgevers.",
+      "sectionTitle": "Wat we voor u realiseren",
+      "sectionText": "Wij zijn allround. Dat betekent dat u bij ons terechtkunnen voor alle fases van het bouwproces: van sloopwerk en fundering tot stucwerk en eindoplevering. We werken met vaste vakmensen die trots zijn op hun werk.",
+      "uspTitle": "Waar ADAF voor staat",
+      "uspText": "Kwaliteit zit bij ons in alles: in de materialen die we kiezen, de manier waarop we communiceren en de zorg waarmee we opleveren. We nemen geen werk aan dat we niet volledig goed kunnen uitvoeren — liever eerlijk dan snel.\n\nAls allround afbouwbedrijf zijn wij in staat complete projecten van A tot Z te begeleiden. Dat bespaart u tijd, geld en de rompslomp van meerdere aannemers inhuren.",
+      "uspChecklist": [
+        "Gecertificeerde bouwmaterialen",
+        "Ervaren en vaste bouwteams",
+        "Transparante offertes zonder verrassingen",
+        "Actief in regio Westland, Den Haag, Delft",
+        "Zowel particulier als zakelijk"
+      ]
+    },
+    "projecten": {
+      "heroTitle": "Onze Projecten",
+      "heroText": "Een greep uit de projecten die wij hebben opgeleverd — van renovaties van woonhuizen tot complexe transformaties van bedrijfspanden.",
+      "gridTitle": "Opgeleverd met trots",
+      "gridText": "Elk project in onze portfolio is met zorg uitgevoerd. Bekijk hieronder een selectie van onze recente werkzaamheden in de regio."
+    },
+    "overOns": {
+      "heroTitle": "Over ADAF Bouwgroep",
+      "heroText": "Leer ons kennen — wie we zijn, waar we vandaan komen en waarom we bouwen met meer dan alleen stenen en mortel.",
+      "storyTitle": "Ons verhaal",
+      "storyText": "ADAF Bouwgroep is opgericht vanuit een eenvoudige overtuiging: bouwkwaliteit moet toegankelijk zijn voor iedereen, zonder concessies aan vakmanschap. Vanuit Wateringen werken wij voor particuliere woningeigenaren, vastgoedbeheerders en zakelijke opdrachtgevers door heel de regio.\n\nOns team bestaat uit vakmensen die het vak van binnen en buiten kennen. We zijn opgegroeid met beton, hout en stucwerk — maar we weten ook hoe belangrijk heldere communicatie en een nette werkplek zijn voor de mensen die ons binnenlaten in hun woning of bedrijf.\n\nWe zijn trots op de projecten die we hebben opgeleverd en de relaties die we hebben opgebouwd. Niet als anoniem bouwbedrijf, maar als een team dat u bij naam kent en uw project persoonlijk begeleidt. Dat is de ADAF manier van werken."
+    },
+    "contactPage": {
+      "heroTitle": "Neem Contact Op",
+      "heroText": "Heeft u een project in gedachten of wilt u gewoon eens vrijblijvend sparren? Wij staan klaar om u te helpen.",
+      "detailsTitle": "Direct contact met ons team",
+      "detailsText": "Bel ons, stuur een e-mail of vul het contactformulier in. We reageren binnen één werkdag en plannen indien gewenst een bezoek op locatie in.",
+      "faqTitle": "Veelgestelde vragen",
+      "faqText": "Hier beantwoorden we de vragen die we het vaakst ontvangen van opdrachtgevers.",
+      "faq": [
+        {
+          "question": "In welke regio is ADAF Bouwgroep actief?",
+          "answer": "Wij zijn voornamelijk actief in de regio Westland, Den Haag, Delft en omgeving. Heeft u een project buiten deze regio? Neem gerust contact op, dan kijken we samen of het mogelijk is."
+        },
+        {
+          "question": "Hoe lang duurt het voordat ik een offerte ontvang?",
+          "answer": "Na een opnamebezoek op locatie ontvangt u doorgaans binnen twee tot drie werkdagen een gedetailleerde offerte. We nemen de tijd om alles zorgvuldig in kaart te brengen zodat er geen verrassingen zijn."
+        },
+        {
+          "question": "Werken jullie ook voor zakelijke opdrachtgevers?",
+          "answer": "Zeker. Wij werken voor zowel particulieren als zakelijke opdrachtgevers, waaronder vastgoedinvesteerders, projectontwikkelaars en VvE's. Ook voor aannemers die ondersteuning nodig hebben zijn wij beschikbaar als onderaannemer."
+        },
+        {
+          "question": "Heeft ADAF Bouwgroep ervaring met vergunningplichtige verbouwingen?",
+          "answer": "Ja, wij hebben ervaring met projecten waarvoor een omgevingsvergunning nodig is. We adviseren u bij de aanvraag en stemmen de planning af op de vergunningsprocedure."
+        },
+        {
+          "question": "Kan ik ook terecht voor kleinere klussen?",
+          "answer": "Ja, we nemen ook kleinere opdrachten aan zoals een badkamerrenovatie, een doorbraak of het opknappen van een ruimte. Neem contact op en we bespreken of we een passend voorstel kunnen doen."
+        }
+      ]
+    },
+    "imagePrompts": {
+      "hero": "Wide angle documentary photograph of a professional Dutch construction team working on a building interior, natural light through large windows, raw concrete and drywall, cool grey tones, modern craftsmanship atmosphere, realistic and unpolished",
+      "about": "Photorealistic image of a skilled Dutch construction worker reviewing blueprints inside a renovation site, natural diffused light, wood and concrete materials visible, professional and approachable mood",
+      "uniqueBg": "Dark textured background of raw concrete and industrial building materials in a Dutch construction setting, subtle grain, cool and moody atmosphere, high contrast",
+      "stepsBg": "Wide angle photo of a clean Dutch construction site interior in progress, scaffolding and drywall visible, large windows casting natural light, transitional and open atmosphere",
+      "ctaBg": "Atmospheric wide shot of a finished Dutch residential renovation with warm wooden floors and plastered walls, large windows, natural light, quality craftsmanship visible throughout",
+      "dienstenHero": "Documentary style wide angle photo of various construction tools and building materials on a Dutch jobsite, hammer, level, drywall, natural light, cool industrial tones",
+      "dienstenUsp": "Realistic photo of Dutch construction professionals collaborating on a building project with materials and blueprints, natural light, wood and concrete setting, professional atmosphere",
+      "projectenHero": "Aerial wide angle photo of completed Dutch residential and commercial buildings in a modern neighbourhood, natural daylight, mixed use architecture, clean and professional",
+      "overOnsHero": "Realistic photo of a small Dutch construction team gathered on a building site, wearing work gear, natural daylight, confident and approachable mood, raw industrial background",
+      "overOnsStory": "Documentary photograph of experienced Dutch builders working with precision on a renovation project, warm natural light, concrete walls, wooden beams, honest and craft-focused atmosphere",
+      "contactHero": "Wide angle photo of the exterior of a Dutch construction company office or building in Wateringen, daytime, professional signage, clean surroundings, welcoming and reliable atmosphere"
+    }
+  },
+  "logoUrl": "data:image/png;base64,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",
+  "images": {}
+}
